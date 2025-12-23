@@ -15,7 +15,7 @@ Hi, I'm Clement Obeng 👨🏾‍💻  <br>Computer Science student | Full-Stack
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Quirkydude&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
