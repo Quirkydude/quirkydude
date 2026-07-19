@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Clement Obeng 👨🏾‍💻  <br>Computer Science student | Full-Stack Developer | System Builder | AI Explorer<br>- 🔧 Build full-stack web & mobile applications<br>- 🤖 Develop AI-powered tools for productivity & automation<br>- 🔐 Explore cybersecurity & system performance<br>- 🧠 Design student-focused and trust-centric platforms<br>I am currently working on FocusPal – AI-powered study & productivity app<br>
+Hi, I'm Clement Obeng 👨🏾‍💻  <br>Computer Science student | Full-Stack Developer | System Builder | AI Explorer<br>- 🔧 Build full-stack web & mobile applications<br>- 🤖 Develop AI-powered tools for productivity & automation<br>- 🔐 Explore cybersecurity & system performance<br>- 🧠 Design student-focused and trust-centric platforms
 
 
 ## 🌐 Socials:
