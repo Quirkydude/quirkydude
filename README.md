@@ -147,6 +147,11 @@ Most of my work runs in production behind private repos. Some highlights:
 
 ### 🔥 Recent activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Asamoah4284/QuickX/pull/2) in [Asamoah4284/QuickX](https://github.com/Asamoah4284/QuickX)
+2. 💪 Opened PR [#1](https://github.com/Asamoah4284/Quickx-App/pull/1) in [Asamoah4284/Quickx-App](https://github.com/Asamoah4284/Quickx-App)
+3. 💪 Opened PR [#2](https://github.com/Asamoah4284/QuickX/pull/2) in [Asamoah4284/QuickX](https://github.com/Asamoah4284/QuickX)
+4. 🎉 Merged PR [#1](https://github.com/Asamoah4284/QuickX/pull/1) in [Asamoah4284/QuickX](https://github.com/Asamoah4284/QuickX)
+5. 💪 Opened PR [#1](https://github.com/Asamoah4284/QuickX/pull/1) in [Asamoah4284/QuickX](https://github.com/Asamoah4284/QuickX)
 <!--END_SECTION:activity-->
 
 </td>
